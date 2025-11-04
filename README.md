@@ -4,9 +4,7 @@
 Welcome to my project repository! Here I share my personal and professional creations related to web design, programming, photography, and digital art.
 
 
-
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=paussaanz&theme=shadow-orange&hide_border=true&date_format=n%2Fj%5B%2FY%5D)](https://git.io/streak-stats)
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=paussaanz&theme=shadow-orange&hide_border=true&date_format=n%2Fj%5B%2FY%5D" alt="GitHub Streak" /></a>
 
 ## 🚀 About Me
 I'm a creative full-stack web developer passionate about blending technology with artistic expression. I specialize in front-end development, animation, and interactive web experiences, all while maintaining a strong foundation in both design and development. I enjoy exploring new technologies and pushing the limits of what can be done in the digital space.
